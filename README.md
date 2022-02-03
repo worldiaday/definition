@@ -71,4 +71,6 @@ All of these are implementations of the same basic set of principles about the w
 - (User goals - in usefulness)
 
 ## How to contribute to this list of definitions
-You are welcome to add to this list of definitions by adding an issue. Be sure to include standard information for citing sources, including to author name(s); titles of books, articles, and journal; date of publiation; page numbers (if available); URL (if applicable).  
+You are welcome to add to this list of definitions by [creating an issue](https://github.com/worldiaday/definition/issues/new). 
+
+Be sure to include standard information for citing sources, including to author name(s); titles of books, articles, and journal; date of publiation; page numbers (if available); URL (if applicable).  
