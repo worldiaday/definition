@@ -53,8 +53,8 @@ All of these are implementations of the same basic set of principles about the w
 - “Information architecture is the way we arrange the parts of something to make sense as a whole, whether that be arranging screens in a mobile application or arranging various pieces of signage at a baseball stadium. IA involves the careful consideration of the language you use and the structures you enable for users to understand something. So IA is all around us and is mostly practiced by people who don’t even know they are doing it.” (Abby Covert cited in Boxes and Arrows, 2020, https://boxesandarrows.com/information-architecture-expert-panel-part-one/)
 
 - Peter Morville 2012, https://prezi.com/aafmvya6bk7t/understanding-information-architecture/
-> Understanding that information architectures are systems of meaning which pervade our social worlds (desperately requires acknowledgement by the field of information architecture globally). (Jason Hobbs, Andrea’s brackets - also in that article: "Any harm that our information architectures may inflict, or safety they may compromise, cannot be understood, assessed or predicted within the existing frameworks for the discipline and practice. The impact of information architectures cannot be measured, their existence cannot be managed, and neither their making nor their meaning in the world can be regulated as the field stands today." 
-> - Andrea’s comment: I'll try to reverse it: We need to develop IA as a discipline and practice that understands, assesses or predicts that IA can inflict harm or compromise safety. The field needs a new framework to measure and manage the impact of IA, and that regulates the making of IA and its meaning in the world. (Hope I got this right!))
+- > Understanding that information architectures are systems of meaning which pervade our social worlds (desperately requires acknowledgement by the field of information architecture globally). (Jason Hobbs, Andrea’s brackets - also in that article: "Any harm that our information architectures may inflict, or safety they may compromise, cannot be understood, assessed or predicted within the existing frameworks for the discipline and practice. The impact of information architectures cannot be measured, their existence cannot be managed, and neither their making nor their meaning in the world can be regulated as the field stands today." 
+- Andrea’s comment: I'll try to reverse it: We need to develop IA as a discipline and practice that understands, assesses or predicts that IA can inflict harm or compromise safety. The field needs a new framework to measure and manage the impact of IA, and that regulates the making of IA and its meaning in the world. (Hope I got this right!))
 
 ## Terms absent in these definitions
 - Architecture
@@ -69,6 +69,24 @@ All of these are implementations of the same basic set of principles about the w
 - Rememberability
 - Business goals
 - (User goals - in usefulness)
+
+## Alternative approaches
+Many of the definitions above are “content blobs” which do not really do the complexity of the term Information Architecture justice (and may even make them seem a bit arbitrary). Maybe we should break it down into more chunks and thus give it more structure, e.g.
+- Goals
+- Results (not as in deliverables, rather as what happens when IA has been done). e.g. clear and organized vs. confusing and unmanageable
+- Means
+- Metaphors (cf Richard Saul Wurman: You only understand something relative to something you already understand)
+- What is NOT IA? (understand better by understanding what it is not; also clarify invisible structure vs. visible elements in the UI, e.g. menu)
+- Fields of application (content rich contexts, AI, …)
+- Ask people what they find UNCLEAR about IA and its definitions
+- Plus deliverables, methods, examples (good and bad)
+
+
+## Work in progress
+To break down information into parts, arrange them and describe the relations between the parts in order to help human beings (and to a certain extent machines) to understand and to discover, to establish or explore new connections, view different perspectives, find gaps, personalize etc. 
+- The granularity of the parts is dependent on the context. E.g. if you are travelling in a car on the highway, you don’t want to know every village you are passing by, but the intersections and exits as well as where you can get gas. If you’re travelling on foot or by bicycle, you need far more detailed information, not only about distance and infrastructure, but also about the inclination of the path or road. 
+- Also note: The tsunami of information is not only a problem of quantity, but also very much of quality. Information in form of unstructured blobs is very hard to interpret.
+
 
 ## How to contribute to this list of definitions
 You are welcome to add to this list of definitions by [creating an issue](https://github.com/worldiaday/definition/issues/new). 
